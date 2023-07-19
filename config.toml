@@ -1,4 +1,4 @@
-baseURL = "https://thattakashi.me/"
+baseURL = "https://thattakashi.github.io/Notes/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
