@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Blinding-nights.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/notes/Blinding-nights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/notes/Blinding-nights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +123,12 @@
             "id": "f7383a7f5788d518",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Blinding-nights.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -142,14 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa0554ef9cdf3188",
+  "active": "f7383a7f5788d518",
   "lastOpenFiles": [
+    "content/notes/Projects.md",
+    "content/_index.md",
     "content/notes/Blinding-nights.md",
     "content/Setup/custom Domain.md",
     "content/notes/Version-1.md",
     "content/notes/projects/Python Music Player/Untitled.md",
     "content/notes/Graphics-and-Assets.md",
-    "content/notes/Projects.md",
     "content/notes/Python-Music-Player.md",
     "content/notes/Characters.md",
     "content/Setup/setup.md",
@@ -162,7 +169,6 @@
     "content/notes/Business-Cards.md",
     "content/notes/Design-project.md",
     "content/notes/Story.md",
-    "content/_index.md",
     "content/notes/projects/Python-Music-Player",
     "content/notes/projects/Design-Project",
     "content/notes/projects/Blinding-Nights",
