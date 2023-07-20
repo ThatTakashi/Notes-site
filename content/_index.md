@@ -19,5 +19,6 @@ There are three ways that you can navigate this site:
 Here is an outline of the main parts of this site:
 - Index (This page)
 	- [[notes/School/School | School]]
-	- [[Projects]]
-- [[Setup/start | start]]
+	- [[notes/projects/Projects | Projects]]
+	- [Projects](Projects.md)
+- [[Setup/start | Setup]]
