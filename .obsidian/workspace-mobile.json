@@ -73,8 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "966938d627735b88",
@@ -132,7 +131,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98de0d7eea86cc47",
+  "active": "bfbb1e8ea4dddda8",
   "lastOpenFiles": [
     "content/notes/CJK + Latex Support (测试).md",
     "2023-07-20.md",
