@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Setup/custom Domain.md",
+                "file": "content/notes/Blinding-nights.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Setup/custom Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Setup/custom Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,51 +118,50 @@
             }
           },
           {
-            "id": "d4709ac19bef8891",
+            "id": "f7383a7f5788d518",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "content/Setup/custom Domain.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 678
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "dacdd1e7533ac9de",
+  "active": "fa0554ef9cdf3188",
   "lastOpenFiles": [
-    "content/notes/projects/Python-Music-Player/Version-1.md",
+    "content/notes/Blinding-nights.md",
+    "content/Setup/custom Domain.md",
+    "content/notes/Version-1.md",
     "content/notes/projects/Python Music Player/Untitled.md",
-    "content/notes/projects/Blinding-Nights/Graphics-and-Assets.md",
-    "content/notes/projects/Projects.md",
-    "content/notes/projects/Python-Music-Player/Python-Music-Player.md",
-    "content/notes/projects/Blinding-Nights/Blinding-nights.md",
-    "content/notes/projects/Blinding-Nights/Characters.md",
+    "content/notes/Graphics-and-Assets.md",
+    "content/notes/Projects.md",
+    "content/notes/Python-Music-Player.md",
+    "content/notes/Characters.md",
     "content/Setup/setup.md",
     "content/notes/Inquiry-Standard.md",
-    "content/notes/School/School.md",
-    "content/notes/projects/Python-Music-Player/Version-2.md",
-    "content/notes/projects/Python-Music-Player/Pygame-Mixer-Documentation.md",
-    "content/notes/projects/Design-Project/Website.md",
-    "content/notes/projects/Design-Project/Logos.md",
-    "content/notes/projects/Design-Project/Business-Cards.md",
-    "content/notes/projects/Design-Project/Design-project.md",
-    "content/notes/projects/Blinding-Nights/Story.md",
+    "content/notes/School.md",
+    "content/notes/Version-2.md",
+    "content/notes/Pygame-Mixer-Documentation.md",
+    "content/notes/Website.md",
+    "content/notes/Logos.md",
+    "content/notes/Business-Cards.md",
+    "content/notes/Design-project.md",
+    "content/notes/Story.md",
     "content/_index.md",
     "content/notes/projects/Python-Music-Player",
     "content/notes/projects/Design-Project",
@@ -179,7 +176,6 @@
     "content/Setup/CJK + Latex Support (测试).md",
     "content/Setup/config.md",
     "content/Setup/docker.md",
-    "content/Setup/hosting.md",
     "content/Setup"
   ]
 }
