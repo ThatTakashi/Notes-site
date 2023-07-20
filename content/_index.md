@@ -18,6 +18,6 @@ There are three ways that you can navigate this site:
 
 Here is an outline of the main parts of this site:
 - Index (This page)
-	- [[notes/Story|Story]]
+	- [[notes/School|School]]
 	- [[notes/Projects|Projects]]
 - [[Setup/start|Setup]]

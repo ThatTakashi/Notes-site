@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +146,7 @@
   },
   "active": "dacdd1e7533ac9de",
   "lastOpenFiles": [
+    "content/private/private-note.md",
     "content/notes/Website.md",
     "content/notes/Version-2.md",
     "content/notes/Version-1.md",
@@ -179,7 +180,6 @@
     "content/notes/School",
     "content/Setup/search.md",
     "content/Setup/CJK + Latex Support (测试).md",
-    "content/Setup/config.md",
     "content/Setup"
   ]
 }
