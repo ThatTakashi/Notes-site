@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/philosophy.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/notes/philosophy.md",
+            "file": "CODE_OF_CONDUCT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/notes/philosophy.md",
+            "file": "CODE_OF_CONDUCT.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/notes/philosophy.md"
+            "file": "CODE_OF_CONDUCT.md"
           }
         }
       }
@@ -134,6 +134,10 @@
   },
   "active": "6e39ab7c9a58e0c5",
   "lastOpenFiles": [
+    "README.md",
+    "static/icon.png",
+    "content/_index.md",
+    "content/notes/philosophy.md",
     "content/templates/post.md",
     "content/private/private-note.md",
     "content/notes/obsidian.md",
