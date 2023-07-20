@@ -18,6 +18,6 @@ There are three ways that you can navigate this site:
 
 Here is an outline of the main parts of this site:
 - Index (This page)
-	- [[content/notes/projects/Blinding Nights/Story|Story]]
+	- [[content/notes/projects/Blinding-Nights/Story|Story]]
 	- [[content/notes/projects/Projects|Projects]]
 - [[content/Setup/start|Setup]]
