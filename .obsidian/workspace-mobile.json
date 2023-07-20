@@ -132,8 +132,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfbb1e8ea4dddda8",
+  "active": "98de0d7eea86cc47",
   "lastOpenFiles": [
+    "content/notes/CJK + Latex Support (测试).md",
+    "2023-07-20.md",
+    "content/notes/callouts.md",
     "content/notes/custom Domain.md"
   ]
 }
