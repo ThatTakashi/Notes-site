@@ -8,8 +8,8 @@ Create a simple python music player that can control music and have music added 
 
 ### Updates:
 - May 4th, 2023:
-	- [[content/notes/Version-1|Version-1]]
+	- [[notes/Version-1|Version-1]]
 - May 12th, 2023:
-	- [[content/notes/Version-2|Version-2]]
+	- [[notes/Version-2|Version-2]]
 - May 19th, 2023:
-	- [[content/notes/Pygame-Mixer-Documentation|Pygame-Mixer-Documentation]]
+	- [[notes/Pygame-Mixer-Documentation|Pygame-Mixer-Documentation]]

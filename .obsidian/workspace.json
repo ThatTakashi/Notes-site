@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/private/private-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Blinding-nights.md",
+                "file": "content/private/private-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Blinding-nights.md",
+                "file": "content/private/private-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +120,11 @@
             }
           },
           {
-            "id": "f7383a7f5788d518",
+            "id": "c0a8ab982754e317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Blinding-nights.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -148,27 +144,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7383a7f5788d518",
+  "active": "dacdd1e7533ac9de",
   "lastOpenFiles": [
-    "content/notes/Projects.md",
-    "content/_index.md",
-    "content/notes/Blinding-nights.md",
-    "content/Setup/custom Domain.md",
-    "content/notes/Version-1.md",
-    "content/notes/projects/Python Music Player/Untitled.md",
-    "content/notes/Graphics-and-Assets.md",
-    "content/notes/Python-Music-Player.md",
-    "content/notes/Characters.md",
-    "content/Setup/setup.md",
-    "content/notes/Inquiry-Standard.md",
-    "content/notes/School.md",
-    "content/notes/Version-2.md",
-    "content/notes/Pygame-Mixer-Documentation.md",
     "content/notes/Website.md",
-    "content/notes/Logos.md",
-    "content/notes/Business-Cards.md",
-    "content/notes/Design-project.md",
+    "content/notes/Version-2.md",
+    "content/notes/Version-1.md",
     "content/notes/Story.md",
+    "content/notes/School.md",
+    "content/notes/Python-Music-Player.md",
+    "content/notes/Pygame-Mixer-Documentation.md",
+    "content/notes/Projects.md",
+    "content/notes/Logos.md",
+    "content/notes/Inquiry-Standard.md",
+    "content/notes/Graphics-and-Assets.md",
+    "content/notes/Design-project.md",
+    "content/notes/Characters.md",
+    "content/notes/Business-Cards.md",
+    "content/notes/Blinding-nights.md",
+    "content/_index.md",
+    "notes/images/google-domains.png.md",
+    "notes/images",
+    "notes",
+    "content/Setup/custom Domain.md",
+    "content/notes/projects/Python Music Player/Untitled.md",
+    "content/Setup/setup.md",
     "content/notes/projects/Python-Music-Player",
     "content/notes/projects/Design-Project",
     "content/notes/projects/Blinding-Nights",
@@ -181,7 +180,6 @@
     "content/Setup/search.md",
     "content/Setup/CJK + Latex Support (测试).md",
     "content/Setup/config.md",
-    "content/Setup/docker.md",
     "content/Setup"
   ]
 }

@@ -5,9 +5,9 @@ title: "Blinding Nights"
 # Blinding Nights
 
 ## Project Home:
-Links in with [[content/notes/Design-project]]
+Links in with [[notes/Design-project|Design Project]]
 
 ### Directory:
-[[content/notes/Graphics-and-Assets|Graphics-and-Assets]]
-[[content/notes/Characters|Characters]]
-[[content/notes/Story|Story]]
+[[notes/Graphics-and-Assets|Graphics-and-Assets]]
+[[notes/Characters|Characters]]
+[[notes/Story|Story]]

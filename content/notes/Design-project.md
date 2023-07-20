@@ -5,9 +5,9 @@ title: "Design Project"
 # Design Project
 
 ##### Directory:
-[[content/notes/Business-Cards|Business-Cards]]
-[[content/notes/Logos|Logos]]
-[[content/notes/Website|Website]]
+[[notes/Business-Cards|Business-Cards]]
+[[notes/Logos|Logos]]
+[[notes/Website|Website]]
 
 ## Brief:
 
