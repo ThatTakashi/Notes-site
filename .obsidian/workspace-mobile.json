@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb02691ec6708f9a",
+        "id": "67560e1100adb356",
         "type": "tabs",
         "children": [
           {
-            "id": "bfbb1e8ea4dddda8",
+            "id": "6e39ab7c9a58e0c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/callouts.md",
+                "file": "content/notes/philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "966938d627735b88",
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/notes/callouts.md",
+            "file": "content/notes/philosophy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/notes/callouts.md",
+            "file": "content/notes/philosophy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/notes/callouts.md"
+            "file": "content/notes/philosophy.md"
           }
         }
       }
@@ -131,11 +132,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfbb1e8ea4dddda8",
+  "active": "6e39ab7c9a58e0c5",
   "lastOpenFiles": [
+    "content/templates/post.md",
+    "content/private/private-note.md",
+    "content/notes/obsidian.md",
+    "content/notes/hosting.md",
+    "content/notes/config.md",
     "content/notes/CJK + Latex Support (测试).md",
-    "2023-07-20.md",
+    "content/notes/images/fork.png",
+    "content/notes/images/google-domains.png",
+    "content/notes/images/obsidian-settings.png",
+    "screenshot.png",
+    "notes/images/google-domains.png.md",
+    "notes",
+    "content/notes/custom Domain.md",
+    "notes/images",
     "content/notes/callouts.md",
-    "content/notes/custom Domain.md"
+    "2023-07-20.md"
   ]
 }
