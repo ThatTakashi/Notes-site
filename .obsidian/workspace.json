@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/projects/Blinding Nights/Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/projects/Blinding Nights/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/projects/Blinding Nights/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/projects/Blinding Nights/Characters.md"
               }
             }
           }
@@ -149,17 +149,27 @@
   "active": "dacdd1e7533ac9de",
   "lastOpenFiles": [
     "content/notes/projects/Blinding Nights/Blinding nights.md",
+    "content/Setup/setup.md",
+    "content/notes/Inquiry Standard.md",
+    "content/notes/School/School.md",
+    "content/notes/projects/Projects.md",
+    "content/notes/projects/Python Music Player/Version 0.2.md",
+    "content/notes/projects/Python Music Player/Version 0.1.md",
+    "content/notes/projects/Python Music Player/Pygame Mixer Documentation.md",
+    "content/notes/projects/Python Music Player/Python Music Player.md",
+    "content/notes/projects/Design Project/Website.md",
+    "content/notes/projects/Design Project/Logos.md",
+    "content/notes/projects/Design Project/Business Cards.md",
+    "content/notes/projects/Design Project/Design project.md",
     "content/notes/projects/Blinding Nights/Graphics and Assets.md",
     "content/notes/projects/Blinding Nights/Story.md",
     "content/notes/projects/Blinding Nights/Characters.md",
-    "content/notes/projects/Projects.md",
-    "content/notes/projects/Blinding Nights",
-    "content/notes/School/School.md",
     "content/_index.md",
+    "content/notes/projects/Python Music Player",
+    "content/notes/projects/Design Project",
+    "content/notes/projects/Blinding Nights",
     "content/Setup/start.md",
     "Setup",
-    "content/Setup/setup.md",
-    "content/notes/Inquiry Standard.md",
     "content/Setup/callouts.md",
     "content/notes/school.md",
     "content/notes/projects",
@@ -170,10 +180,6 @@
     "content/Setup/docker.md",
     "content/Setup/hosting.md",
     "content/Setup/ignore notes.md",
-    "content/Setup",
-    "content/Setup/editing.md",
-    "content/Setup/troubleshooting.md",
-    "content/Setup/showcase.md",
-    "CODE_OF_CONDUCT.md"
+    "content/Setup"
   ]
 }

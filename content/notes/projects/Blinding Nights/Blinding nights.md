@@ -1,7 +1,13 @@
+---
+title: "Blinding Nights"
+---
+
+# Blinding Nights
+
 ## Project Home:
-Links in with [[Design Project]]
+Links in with [[content/notes/projects/Design Project/Design project]]
 
 ### Directory:
-[[Graphics and Assets]]
-[[Characters]]
-[[Story]]
+[[content/notes/projects/Blinding Nights/Graphics and Assets|Graphics and Assets]]
+[[content/notes/projects/Blinding Nights/Characters|Characters]]
+[[content/notes/projects/Blinding Nights/Story|Story]]
