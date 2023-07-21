@@ -1,5 +1,0 @@
----
-title: "Japanese"
-tags:
-- Topic
----

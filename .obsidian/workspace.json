@@ -6,7 +6,6 @@
       {
         "id": "86b6af227fdb94d4",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "d17a50e9f7e0043b",
@@ -14,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inquiry-Standard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "99d3698c34e5e45b",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "dacdd1e7533ac9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Inquiry-Standard-Research.md",
+                "file": "content/notes/School.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,6 +76,20 @@
     "type": "split",
     "children": [
       {
+        "id": "7e259230c8b8d642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e576f494e658a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "df62bedc6506ae2c",
         "type": "tabs",
         "children": [
@@ -105,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inquiry-Standard.md",
+                "file": "content/notes/School.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inquiry-Standard.md",
+                "file": "content/notes/School.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,30 +134,21 @@
             }
           },
           {
-            "id": "c0a8ab982754e317",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "83a958ea3986f432",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inquiry-Standard.md"
+                "file": "content/notes/School.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 380,
-    "collapsed": true
+    "width": 380
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,15 +162,24 @@
   },
   "active": "d17a50e9f7e0043b",
   "lastOpenFiles": [
+    "content/notes/Story.md",
+    "content/notes/13PRG.md",
+    "content/notes/13PAI.md",
+    "content/notes/13DVC.md",
+    "content/notes/13DGT.md",
+    "content/notes/13DES.md",
+    "content/notes/School.md",
+    "content/notes/Blinding-nights.md",
+    "content/Setup/docker.md",
+    "content/_index.md",
+    "content/notes/Japan.md",
+    "content/notes/Inquiry-Standard.md",
     "content/notes/Inquiry-Standard-Research.md",
     "Inquiry-Standard.md",
-    "content/_index.md",
     "content/private/private-note.md",
     "content/notes/Website.md",
     "content/notes/Version-2.md",
     "content/notes/Version-1.md",
-    "content/notes/Story.md",
-    "content/notes/School.md",
     "content/notes/Python-Music-Player.md",
     "content/notes/Pygame-Mixer-Documentation.md",
     "content/notes/Projects.md",
@@ -194,23 +188,14 @@
     "content/notes/Design-project.md",
     "content/notes/Characters.md",
     "content/notes/Business-Cards.md",
-    "content/notes/Blinding-nights.md",
-    "notes/images/google-domains.png.md",
     "notes/images",
     "notes",
-    "content/Setup/custom Domain.md",
-    "content/notes/projects/Python Music Player/Untitled.md",
-    "content/Setup/setup.md",
     "content/notes/projects/Python-Music-Player",
     "content/notes/projects/Design-Project",
     "content/notes/projects/Blinding-Nights",
-    "content/Setup/start.md",
     "Setup",
-    "content/Setup/callouts.md",
-    "content/notes/school.md",
     "content/notes/projects",
     "content/notes/School",
-    "content/Setup/search.md",
     "content/Setup"
   ]
 }
