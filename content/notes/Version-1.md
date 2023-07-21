@@ -1,5 +1,9 @@
 ---
 title: "Ver 0.1 - Python Music Player"
+tags:
+- Project
+- Programming
+- School
 ---
 
 ## Changelog:

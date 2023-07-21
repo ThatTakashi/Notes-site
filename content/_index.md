@@ -1,6 +1,8 @@
 ---
 title: 🪴 Takashi's Digital Garden
 enableToc: false
+tags:
+- System
 ---
 
 ## Welcome to my Digital Garden!

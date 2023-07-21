@@ -1,3 +1,5 @@
 ---
 title: "School"
+tags:
+- System
 ---

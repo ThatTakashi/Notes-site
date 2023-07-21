@@ -1,5 +1,8 @@
 ---
 title: "Inquiry Standard"
+tags:
+- School
+- Digital-Technologies
 ---
 
 [[notes/Inquiry-Standard-Research|Inquiry-Standard-Research]]

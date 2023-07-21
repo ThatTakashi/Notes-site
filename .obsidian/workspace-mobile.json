@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "67560e1100adb356",
+        "id": "71808ad797f77d49",
         "type": "tabs",
         "children": [
           {
-            "id": "6e39ab7c9a58e0c5",
+            "id": "a9dc794ed866e66e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Japanese.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Design",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/notes/Japanese.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "content/notes/Japanese.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "content/notes/Japanese.md"
+          }
         }
       }
     ],
@@ -124,22 +132,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e39ab7c9a58e0c5",
+  "active": "a9dc794ed866e66e",
   "lastOpenFiles": [
+    "content/notes/Design-project.md",
+    "content/notes/Cyberpunk.md",
     "content/_index.md",
+    "content/notes/Website.md",
+    "content/notes/Graphics-and-Assets.md",
+    "content/notes/Blinding-nights.md",
+    "content/notes/Business-Cards.md",
+    "content/notes/Version-2.md",
+    "content/notes/Version-1.md",
+    "content/notes/Story.md",
+    "content/notes/School.md",
+    "content/notes/Pygame-Mixer-Documentation.md",
+    "content/notes/Python-Music-Player.md",
+    "content/notes/Projects.md",
+    "content/notes/Logos.md",
+    "content/notes/Japanese.md",
+    "content/notes/Inquiry-Standard-Research.md",
+    "content/notes/Inquiry-Standard.md",
+    "content/notes/Characters.md",
     "content/Setup/search.md",
     "content/Setup/start.md",
-    "content/notes/Inquiry-Standard.md",
     "CODE_OF_CONDUCT.md",
-    "content/notes/Inquiry-Standard-Research.md",
-    "content/notes/Design-project.md",
-    "content/notes/Projects.md",
-    "content/notes/Characters.md",
-    "content/notes/Story.md",
-    "content/notes/Pygame-Mixer-Documentation.md",
-    "content/notes/Business-Cards.md",
-    "content/notes/School.md",
-    "content/notes/Website.md",
     "content/Setup/images/fork.png",
     "content/Setup/images/github-actions.png",
     "content/Setup/docker.md",
@@ -147,17 +163,9 @@
     "content/Setup/CJK + Latex Support (测试).md",
     "content/Setup/images",
     "content/Setup/showcase.md",
-    "content/Setup/setup.md",
-    "content/Setup/troubleshooting.md",
-    "content/Setup/callouts.md",
     "content/Setup",
-    "content/Setup/editing.md",
-    "content/Setup/updating.md",
     "content/Setup/images/github-pages.png",
     "content/Setup/images/google-domains.png",
-    "content/notes/Blinding-nights.md",
-    "content/notes/Graphics-and-Assets.md",
-    "content/notes/Version-2.md",
     "content/Setup/images/obsidian-settings.png",
     "static/icon.png",
     "content/notes/images/fork.png",

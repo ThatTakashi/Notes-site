@@ -1,5 +1,8 @@
 ---
 title: "Blinding Nights"
+tags:
+- Project
+- Game
 ---
 
 # Blinding Nights

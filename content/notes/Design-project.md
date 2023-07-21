@@ -1,5 +1,9 @@
 ---
 title: "Design Project"
+tags:
+- Project
+- School
+- Design
 ---
 
 # Design Project
@@ -19,6 +23,6 @@ This will provide me with plenty of work for my boards as well as heaps of mater
 ---
 
 ### What style am I basing my designs off of?:
-My game is a stylised cyberpunk styled game and it takes place many years in the future. So that means lots of neon and technology. I want to create a game where each level has its own feel and atmosphere.
+My game is a stylised [[notes/Cyberpunk|Cyberpunk]] styled game and it takes place many years in the future. So that means lots of neon and technology. I want to create a game where each level has its own feel and atmosphere.
 
-My game also will take heavy insperation from japanese design and culture. Japanese design is often mixed in with the cyberpunk design style. I also want to bring some japanese design elements into the designs for my game studio.
+My game also will take heavy insperation from [[notes/Japanese|Japanese]] design and culture. Japanese design is often mixed in with the cyberpunk design style. I also want to bring some japanese design elements into the designs for my game studio.

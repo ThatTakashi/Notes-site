@@ -1,5 +1,9 @@
 ---
 title: "Python Music Player"
+tags:
+- Project
+- Programming
+- School
 ---
 
 ## Brief:

@@ -1,5 +1,9 @@
 ---
 title: "Mixer - Python Music Player"
+tags:
+- Project
+- Programming
+- School
 ---
 
 ### pygame.mixer.music.load()

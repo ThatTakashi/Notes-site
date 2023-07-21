@@ -1,5 +1,8 @@
 ---
 title: "Inquiry Standard Research"
+tags:
+- School
+- Digital-Technologies
 ---
 # Existing Products - General Time Management
 
