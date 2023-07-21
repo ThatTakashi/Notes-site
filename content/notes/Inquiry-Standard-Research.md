@@ -1,5 +1,5 @@
 ---
-title: "Inquiry Standard"
+title: "Inquiry Standard Research"
 ---
 # Existing Products - General Time Management
 
@@ -15,7 +15,7 @@ Asana is a general purpose project\time management software suite that allows te
     - Timeline based view
     - Calendar View
     - List view
-- Provides app intergration and automation features
+- Provides app integration and automation features
     - Allows the linking of existing workshop systems
     - Allows repetitive tasks such as adding a customer to be automated
 
@@ -38,7 +38,7 @@ Monday.com is a business focused project/team management tool that is perfect fo
     - Timeline views
     - Chart views
     - Dashboards
-        - Allow the organisation of multiple sets of data
+        - Allow the organization of multiple sets of data
         - Let's the admin of a workspace display all of the tasks and data that is relevant to each user on one page as soon as they login
 
 ### Cons:

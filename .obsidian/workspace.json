@@ -6,6 +6,26 @@
       {
         "id": "86b6af227fdb94d4",
         "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "d17a50e9f7e0043b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inquiry-Standard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "99d3698c34e5e45b",
+        "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "dacdd1e7533ac9de",
@@ -13,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Inquiry-Standard-Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "Inquiry-Standard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "Inquiry-Standard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,13 +146,24 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "83a958ea3986f432",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inquiry-Standard.md"
+              }
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 678
+    "width": 380,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dacdd1e7533ac9de",
+  "active": "d17a50e9f7e0043b",
   "lastOpenFiles": [
+    "content/notes/Inquiry-Standard-Research.md",
+    "Inquiry-Standard.md",
+    "content/_index.md",
     "content/private/private-note.md",
     "content/notes/Website.md",
     "content/notes/Version-2.md",
@@ -156,13 +190,11 @@
     "content/notes/Pygame-Mixer-Documentation.md",
     "content/notes/Projects.md",
     "content/notes/Logos.md",
-    "content/notes/Inquiry-Standard.md",
     "content/notes/Graphics-and-Assets.md",
     "content/notes/Design-project.md",
     "content/notes/Characters.md",
     "content/notes/Business-Cards.md",
     "content/notes/Blinding-nights.md",
-    "content/_index.md",
     "notes/images/google-domains.png.md",
     "notes/images",
     "notes",
@@ -179,7 +211,6 @@
     "content/notes/projects",
     "content/notes/School",
     "content/Setup/search.md",
-    "content/Setup/CJK + Latex Support (测试).md",
     "content/Setup"
   ]
 }
