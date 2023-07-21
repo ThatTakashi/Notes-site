@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/13PRG.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/13PRG.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/13PRG.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/13PRG.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -162,11 +162,11 @@
   },
   "active": "d17a50e9f7e0043b",
   "lastOpenFiles": [
+    "content/notes/13PRG.md",
     "content/notes/13DGT.md",
     "content/notes/13DES.md",
     "content/notes/School.md",
     "content/notes/Story.md",
-    "content/notes/13PRG.md",
     "content/notes/13PAI.md",
     "content/notes/13DVC.md",
     "content/notes/Blinding-nights.md",

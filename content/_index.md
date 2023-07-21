@@ -1,5 +1,5 @@
 ---
-title: 🪴 Takashi's Digital Garden
+title: (*≧ω≦*) Takashi's Digital Garden
 enableToc: false
 tags:
 - System
