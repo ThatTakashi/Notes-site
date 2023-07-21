@@ -11,12 +11,8 @@
             "id": "6e39ab7c9a58e0c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODE_OF_CONDUCT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CODE_OF_CONDUCT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CODE_OF_CONDUCT.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +108,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "CODE_OF_CONDUCT.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -132,8 +124,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98de0d7eea86cc47",
+  "active": "6e39ab7c9a58e0c5",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/Setup/search.md",
+    "content/Setup/start.md",
+    "content/notes/Inquiry-Standard.md",
+    "CODE_OF_CONDUCT.md",
+    "content/notes/Inquiry-Standard-Research.md",
     "content/notes/Design-project.md",
     "content/notes/Projects.md",
     "content/notes/Characters.md",
@@ -144,7 +142,6 @@
     "content/notes/Website.md",
     "content/Setup/images/fork.png",
     "content/Setup/images/github-actions.png",
-    "content/Setup/start.md",
     "content/Setup/docker.md",
     "content/Setup/philosophy.md",
     "content/Setup/CJK + Latex Support (测试).md",
@@ -153,7 +150,6 @@
     "content/Setup/setup.md",
     "content/Setup/troubleshooting.md",
     "content/Setup/callouts.md",
-    "content/Setup/search.md",
     "content/Setup",
     "content/Setup/editing.md",
     "content/Setup/updating.md",
@@ -162,10 +158,6 @@
     "content/notes/Blinding-nights.md",
     "content/notes/Graphics-and-Assets.md",
     "content/notes/Version-2.md",
-    "content/Setup/custom Domain.md",
-    "content/notes/Logos.md",
-    "content/notes/Version-1.md",
-    "content/notes/Inquiry-Standard.md",
     "content/Setup/images/obsidian-settings.png",
     "static/icon.png",
     "content/notes/images/fork.png",

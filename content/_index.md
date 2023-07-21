@@ -21,3 +21,5 @@ Here is an outline of the main parts of this site:
 	- [[notes/School|School]]
 	- [[notes/Projects|Projects]]
 - [[Setup/start|Setup]]
+[[Setup/search|Search]]
+[[Setup/troubleshooting|Troubleshooting]]
