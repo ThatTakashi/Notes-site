@@ -5,3 +5,6 @@ tags:
 - Class
 - DGT
 ---
+## Current Work:
+- [[notes/Inquiry-Standard|Inquiry-Standard]]
+- [[notes/Inquiry-Standard-Research|Inquiry-Standard-Research]]

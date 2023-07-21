@@ -5,3 +5,8 @@ tags:
 - Class
 - PRG
 ---
+## Current Work:
+
+
+## Past Work:
+- [[notes/Python-Music-Player|Python-Music-Player]]
