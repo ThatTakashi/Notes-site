@@ -9,4 +9,4 @@ tags:
 
 
 ## Past Work:
-- [[notes/Python-Music-Player|Python-Music-Player]]
+- [[notes/projects/Python-Music-Player/Python-Music-Player|Python-Music-Player]]

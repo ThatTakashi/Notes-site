@@ -5,7 +5,7 @@ tags:
 - Digital-Technologies
 ---
 
-[[notes/Inquiry-Standard-Research|Inquiry-Standard-Research]]
+[[notes/projects/Inquiry Standard/Inquiry-Standard-Research|Inquiry-Standard-Research]]
 
 ## Inquiry Focus
 Design and create a mobile app to help my dad track and organize his bike mechanic repair jobs.

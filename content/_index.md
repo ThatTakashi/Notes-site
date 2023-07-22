@@ -20,8 +20,10 @@ There are three ways that you can navigate this site:
 
 Here is an outline of the main parts of this site:
 - Index (This page)
-	- [[notes/School|School]]
-	- [[notes/Projects|Projects]]
-- [[Setup/start|Setup]]
-[[Setup/search|Search]]
-[[Setup/troubleshooting|Troubleshooting]]
+	- [[notes/School/School|School]]
+		- [[notes/School/13PRG|13PRG]]
+		- [[notes/School/13PAI|13PAI]]
+		- [[notes/School/13DVC|13DVC]]
+		- [[notes/School/13DGT|13DGT]]
+		- [[notes/School/13DES|13DES]]
+	- [[notes/projects/Projects|Projects]]
