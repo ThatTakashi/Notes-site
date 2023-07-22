@@ -1,7 +1,0 @@
-{
-  "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
-  "newLinkFormat": "absolute",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "content/notes"
-}
