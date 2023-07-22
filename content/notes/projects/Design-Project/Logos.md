@@ -1,6 +1,7 @@
 ---
 title: "Logos - Design Project"
 tags:
-- Design
+- Project
 - School
+- DES
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Inquiry Standard"
 tags:
+- Project
 - School
-- Digital-Technologies
+- DGT
 ---
 
 [[notes/projects/Inquiry Standard/Inquiry-Standard-Research|Inquiry-Standard-Research]]

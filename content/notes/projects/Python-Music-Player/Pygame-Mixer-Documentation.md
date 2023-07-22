@@ -2,8 +2,8 @@
 title: "Mixer - Python Music Player"
 tags:
 - Project
-- Programming
 - School
+- PRG
 ---
 
 ### pygame.mixer.music.load()

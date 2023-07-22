@@ -2,8 +2,8 @@
 title: "Python Music Player"
 tags:
 - Project
-- Programming
 - School
+- PRG
 ---
 
 ## Brief:

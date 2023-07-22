@@ -3,7 +3,7 @@ title: "Design Project"
 tags:
 - Project
 - School
-- Design
+- DES
 ---
 
 # Design Project

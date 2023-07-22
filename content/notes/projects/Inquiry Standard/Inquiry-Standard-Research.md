@@ -1,8 +1,9 @@
 ---
 title: "Inquiry Standard Research"
 tags:
+- Project
 - School
-- Digital-Technologies
+- DES
 ---
 # Existing Products - General Time Management
 
