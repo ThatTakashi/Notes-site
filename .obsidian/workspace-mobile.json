@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "4ddd3b04f851f8e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "71808ad797f77d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9dc794ed866e66e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d744d1ab8791ecdb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "98de0d7eea86cc47",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "edf20f3e3a9062fc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Design",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "741b16d998c8dfde",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e11b451c1ffd6f38",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "966938d627735b88",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "968760a9da4a7d72",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4c8911e4c91a2ec5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "83c76a55643a4d76",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a9dc794ed866e66e",
+  "lastOpenFiles": [
+    "content/notes/Japanese.md",
+    "content/notes/20 - 29 Project Management",
+    "content/notes/00 - 09 System",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard",
+    "content/notes/20 - 29 Project Management/20 Current Projects",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Graphics-and-Assets.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights",
+    "content/notes/00 - 09 System/00 Index/00.01 Home.md",
+    "content/notes/00 - 09 System/00 Index",
+    "content/notes/30 - 39 Topics/30 World/30.02 East Asia.md",
+    "content/notes/30 - 39 Topics/30 World/30.01 Japan.md",
+    "content/notes/30 - 39 Topics/36 Fiction/36.01 Cyberpunk.md",
+    "content/notes/30 - 39 Topics/30 World",
+    "content/notes/30 - 39 Topics/36 Fiction",
+    "content/notes/30 - 39 Topics",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Blinding-nights.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Story.md",
+    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Version-1.md",
+    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Python-Music-Player.md",
+    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Version-2.md",
+    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Pygame-Mixer-Documentation.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos.md",
+    "content/notes/00 - 09 System/00 Index/00.02 Directory.md",
+    "content/notes/10 - 19 School/10 13DES/13DES.md",
+    "content/notes/10 - 19 School/14 13PRG/13PRG.md",
+    "content/notes/10 - 19 School/13 13PAI/13PAI.md",
+    "content/notes/10 - 19 School/School.md",
+    "content/notes/10 - 19 School/12 13DVC/13DVC.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Characters.md",
+    "content/notes/10 - 19 School/11 13DGT/13DGT.md",
+    "content/Setup/images/fork.png",
+    "content/Setup/images/github-actions.png",
+    "content/Setup/images/github-pages.png",
+    "content/Setup/images/google-domains.png",
+    "content/Setup/images/obsidian-settings.png",
+    "static/icon.png",
+    "content/notes/images/fork.png",
+    "content/notes/images/google-domains.png",
+    "content/notes/images/obsidian-settings.png",
+    "screenshot.png"
+  ]
+}
