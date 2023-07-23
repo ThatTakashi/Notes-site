@@ -23,6 +23,6 @@ This will provide me with plenty of work for my boards as well as heaps of mater
 ---
 
 ### What style am I basing my designs off of?:
-My game is a stylized [[notes/30 - 39 Topics/36 Fiction/36.01 Cyberpunk|36.01 Cyberpunk]] styled game and it takes place many years in the future. So that means lots of neon and technology. I want to create a game where each level has its own feel and atmosphere.
+My game is a stylized [[notes/30 - 39 Topics/36 Fiction/36.01 Cyberpunk|Cyberpunk]] styled game and it takes place many years in the future. So that means lots of neon and technology. I want to create a game where each level has its own feel and atmosphere.
 
-My game also will take heavy inspiration from [[notes/30 - 39 Topics/30 World/30.01 Japan|30.01 Japan]] design and culture. Japanese design is often mixed in with the cyberpunk design style. I also want to bring some Japanese design elements into the designs for my game studio.
+My game also will take heavy inspiration from [[notes/30 - 39 Topics/30 World/30.01 Japan|Japan]] design and culture. Japanese design is often mixed in with the cyberpunk design style. I also want to bring some Japanese design elements into the designs for my game studio.
