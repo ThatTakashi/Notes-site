@@ -6,7 +6,7 @@ tags:
 - DGT
 ---
 
-[[notes/projects/Inquiry Standard/Inquiry-Standard-Research|Inquiry-Standard-Research]]
+[[notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research|Inquiry-Standard-Research]]
 
 ## Inquiry Focus
 Design and create a mobile app to help my dad track and organize his bike mechanic repair jobs.
