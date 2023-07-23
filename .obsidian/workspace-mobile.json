@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/20 - 29 Project Management/Projects.md",
+                "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/Projects.md",
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/Projects.md",
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/Projects.md"
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md"
           }
         }
       }
@@ -134,6 +134,9 @@
   },
   "active": "a9dc794ed866e66e",
   "lastOpenFiles": [
+    "content/notes/20 - 29 Project Management/Projects.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards",
     "content/notes/Japanese.md",
     "content/notes/20 - 29 Project Management",
     "content/notes/00 - 09 System",
@@ -150,7 +153,6 @@
     "content/notes/30 - 39 Topics/36 Fiction/36.01 Cyberpunk.md",
     "content/notes/30 - 39 Topics/30 World",
     "content/notes/30 - 39 Topics/36 Fiction",
-    "content/notes/30 - 39 Topics",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
@@ -168,8 +170,6 @@
     "content/notes/10 - 19 School/13 13PAI/13PAI.md",
     "content/notes/10 - 19 School/School.md",
     "content/notes/10 - 19 School/12 13DVC/13DVC.md",
-    "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Characters.md",
-    "content/notes/10 - 19 School/11 13DGT/13DGT.md",
     "content/Setup/images/fork.png",
     "content/Setup/images/github-actions.png",
     "content/Setup/images/github-pages.png",
