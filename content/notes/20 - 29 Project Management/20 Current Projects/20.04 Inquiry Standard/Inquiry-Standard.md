@@ -31,3 +31,11 @@ In terms of my digital outcome I have a few base requirements that will need to 
 - I want my app to feel as familiar as possible for the end user. I know that my stakeholder uses an android phone and thus my design mockup has been designed by using components from the [Material design 3](https://m3.material.io/) library. These components are likely familiar to android users.
 
 These requirements are essential to creating an app that my stakeholder will actually want to use. Following these are also needed to make my app easy to use and instantly understandable.
+
+### What I found from my research?:
+Each app that I researched has its own pros and cons as well as a "thing" that it is best at. I conducted this research so that I could find any apps that matched my base requirements as well as I wanted to look for anything that these apps do that I could take inspiration of to improve my own app.
+
+For each app that I conducted research on, I made an effort to be as nit picky as possible. I tested two apps that are meant for general task management and I tested two apps that are made specifically for mechanics. I want to see if the apps that are built for mechanics match my base requirements better than the general purpose apps.
+
+#### General Purpose apps:
+The two apps that I tested in this category are **Monday.com** and **Asana**. Each of these apps have vast feature sets that can cater to many different workflows. This makes each one very easy to use for businesses in many different fields.
