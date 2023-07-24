@@ -16,6 +16,8 @@ There are three ways that you can navigate this site:
 - Using the graph found at the bottom of each page
 
 [[Setup/troubleshooting|Troubleshooting]]
+[[Setup/setup|setup]]
+[[Setup/editing|editing]]
 
 ### Click a link below to explore the site
 - [[notes/00 - 09 System/00 Index/00.02 Directory|Directory]]
