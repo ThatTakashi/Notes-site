@@ -32,10 +32,14 @@ In terms of my digital outcome I have a few base requirements that will need to 
 
 These requirements are essential to creating an app that my stakeholder will actually want to use. Following these are also needed to make my app easy to use and instantly understandable.
 
+![[notes/Images/app.png|400]]
+
 ### What I found from my research?:
 Each app that I researched has its own pros and cons as well as a "thing" that it is best at. I conducted this research so that I could find any apps that matched my base requirements as well as I wanted to look for anything that these apps do that I could take inspiration of to improve my own app.
 
 For each app that I conducted research on, I made an effort to be as nit picky as possible. I tested two apps that are meant for general task management and I tested two apps that are made specifically for mechanics. I want to see if the apps that are built for mechanics match my base requirements better than the general purpose apps.
 
 #### General Purpose apps:
-The two apps that I tested in this category are **Monday.com** and **Asana**. Each of these apps have vast feature sets that can cater to many different workflows. This makes each one very easy to use for businesses in many different fields.
+The two apps that I tested in this category are **Monday.com** and **Asana**. Each of these apps have vast feature sets that can cater to many different workflows. This makes each one very easy to use for businesses in many different fields. Despite their large feature set, this can also be their downfall. The large feature set can be overwhelming for new users and navigating through each feature can be painful. Each feature takes time to learn to use and most mechanics are not technically inclined and thus this will be overwhelming for them. Many workers want something that just works out of the box and that requires very little tweaking to work correctly in their workflow.
+
+#### Mechanic Focused apps:
