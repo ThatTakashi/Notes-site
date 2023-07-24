@@ -20,5 +20,7 @@ There are three ways that you can navigate this site:
 [[Setup/editing|editing]]
 
 ### Click a link below to explore the site
-- [[notes/00 - 09 System/00 Index/00.02 Directory|Directory]]
+- [[notes/00 - 09 System/00 Index/00.02 Directory|00.02 Directory]]
 - [[notes/00 - 09 System/00 Index/00.01 Home|Enter]]
+- [[notes/20 - 29 Project Management/Projects|Projects]]
+- [[notes/10 - 19 School/School|School]]
