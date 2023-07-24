@@ -13,6 +13,9 @@ tags:
 [[notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos|Logos]]
 [[notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website|Website]]
 
+##### Links in with:
+[[notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game|Horror Game]]
+
 ## Brief:
 
 ### What am I creating?:

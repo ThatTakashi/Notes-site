@@ -5,4 +5,4 @@ tags:
 - Class
 - PAI
 ---
-- [ ] TEST2
+- [ ] Complete PAI Slides
