@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/20 - 29 Project Management/Projects.md",
+                "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/Projects.md",
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/Projects.md",
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/Projects.md"
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md"
           }
         }
       }
@@ -134,33 +134,38 @@
   },
   "active": "a9dc794ed866e66e",
   "lastOpenFiles": [
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/Visual Design.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
+    "content/notes/20 - 29 Project Management/Projects.md",
+    "content/notes/Images/app.png",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game",
     "content/notes/Images",
     "content/notes/Images/website2.png",
     "CNAME",
     "content/notes/Images/website1.png",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
-    "content/notes/20 - 29 Project Management/Projects.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards",
     "content/notes/Japanese.md",
     "content/notes/20 - 29 Project Management",
     "content/notes/00 - 09 System",
-    "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard",
     "content/notes/20 - 29 Project Management/20 Current Projects",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Graphics-and-Assets.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights",
     "content/notes/00 - 09 System/00 Index/00.01 Home.md",
-    "content/notes/00 - 09 System/00 Index",
     "content/notes/30 - 39 Topics/30 World/30.02 East Asia.md",
     "content/notes/30 - 39 Topics/30 World/30.01 Japan.md",
     "content/notes/30 - 39 Topics/36 Fiction/36.01 Cyberpunk.md",
-    "content/notes/30 - 39 Topics/30 World",
-    "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Blinding-nights.md",
-    "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Story.md",
     "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Version-1.md",
     "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Python-Music-Player.md",
@@ -168,17 +173,12 @@
     "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Pygame-Mixer-Documentation.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos.md",
     "content/notes/00 - 09 System/00 Index/00.02 Directory.md",
-    "content/notes/10 - 19 School/10 13DES/13DES.md",
-    "content/notes/10 - 19 School/14 13PRG/13PRG.md",
-    "content/notes/10 - 19 School/13 13PAI/13PAI.md",
-    "content/notes/10 - 19 School/School.md",
     "content/Setup/images/fork.png",
     "content/Setup/images/github-actions.png",
     "content/Setup/images/github-pages.png",
     "content/Setup/images/google-domains.png",
     "content/Setup/images/obsidian-settings.png",
     "static/icon.png",
-    "content/notes/images/fork.png",
-    "content/notes/images/google-domains.png"
+    "content/notes/images/fork.png"
   ]
 }
