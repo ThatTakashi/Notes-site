@@ -33,6 +33,8 @@ In terms of my digital outcome I have a few base requirements that will need to 
 These requirements are essential to creating an app that my stakeholder will actually want to use. Following these are also needed to make my app easy to use and instantly understandable.
 
 ![[notes/Images/app.png|400]]
+### What makes a good productivity application?:
+All good productivity tools should allow us to do one thing, manage time. All other things are addons, here is a list of the extras I found that people 
 
 ### What I found from my research?:
 Each app that I researched has its own pros and cons as well as a "thing" that it is best at. I conducted this research so that I could find any apps that matched my base requirements as well as I wanted to look for anything that these apps do that I could take inspiration of to improve my own app.
