@@ -20,12 +20,12 @@ There are three ways that you can navigate this site:
 [[Setup/editing|editing]]
 
 ### Click a link below to explore the site
-- #Project 
-- #Topic 
+- [#Project](https://thattakashi.me/tags/Project/)
+- [#Topic](https://thattakashi.me/tags/Topic/)
 
 #### Classes:
-- #DES 
-- #DGT 
-- #DVC 
-- #PAI 
-- #PRG 
+- [#DES](https://thattakashi.me/tags/DES/) 
+- [#DGT](https://thattakashi.me/tags/DGT/) 
+- [#DVC](https://thattakashi.me/tags/DVC/) 
+- [#PAI](https://thattakashi.me/tags/PAI/) 
+- [#PRG](https://thattakashi.me/tags/PRG/) 
