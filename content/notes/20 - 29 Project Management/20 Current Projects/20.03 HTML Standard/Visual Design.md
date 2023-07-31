@@ -1,5 +1,5 @@
 ---
-title: "Inquiry Standard Research"
+title: "Visual Design - HTML Standard"
 tags:
 - Project
 - School

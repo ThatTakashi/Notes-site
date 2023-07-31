@@ -1,5 +1,5 @@
 ---
-title: "Inquiry Standard Research"
+title: "Research - HTML Standard"
 tags:
 - Project
 - School
