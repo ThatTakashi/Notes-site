@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "def20703d4d046b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d22449d869d933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea999b3b80ad9f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/20 - 29 Project Management/Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed89a2d4ea0b8a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb247f4c769c43b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "66eb23eb1c8f649e",
+        "type": "tabs",
+        "dimension": 29.941860465116278,
+        "children": [
+          {
+            "id": "e765ced8cb03c340",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "80fa2cfb1f6ae9ac",
+        "type": "tabs",
+        "dimension": 70.05813953488372,
+        "children": [
+          {
+            "id": "cf240447f43bfa27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ef4649cc304cfc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28024ba407b132eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3dc8eebffc94db4",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fbfe0a41cb6031c",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ff0a0876bbaac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f38dffd562e509",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4fc3eebb8f5c639c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67454501ec40ec12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b10407131ce24286",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0cb4cf2cf1505ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ed89a2d4ea0b8a97",
+  "lastOpenFiles": [
+    "_index.md",
+    "notes/20 - 29 Project Management/Projects.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
+    "notes/Images/website2.png",
+    "notes/Images/website1.png",
+    "notes/Images",
+    "notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Design-project.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
+    "notes/10 - 19 School/10 13DES/13DES.md",
+    "notes/10 - 19 School/School.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
+    "notes/20 - 29 Project Management/20 Current Projects/Untitled.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game",
+    "notes/10 - 19 School/11 13DGT/13DGT.md",
+    "notes/10 - 19 School/12 13DVC/13DVC.md",
+    "notes/10 - 19 School/14 13PRG/13PRG.md",
+    "notes/10 - 19 School/13 13PAI/13PAI.md",
+    "notes/30 - 39 Topics/30 World/30.02 East Asia.md",
+    "notes/30 - 39 Topics/30 World/30.01 Japan.md",
+    "notes/10 - 19 School/10 13DES/10.04 Misc",
+    "notes/10 - 19 School/10 13DES/10.03 Class Notes",
+    "notes/10 - 19 School/10 13DES/10.02 Assessments",
+    "notes/10 - 19 School/10 13DES/10.01 Work",
+    "notes/00 - 09 System/00 Index/00.02 Directory.md",
+    "notes/00 - 09 System/00 Index/00.01 Home.md",
+    "notes/00 - 09 System/01 Bookmarks/01.01 Articles/Articles.md",
+    "notes/30 - 39 Topics/36 Fiction/36.01 Cyberpunk.md",
+    "notes/30 - 39 Topics/36 Fiction",
+    "notes/30 - 39 Topics/35 Films and TV",
+    "notes/30 - 39 Topics/34 Random",
+    "notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Pygame-Mixer-Documentation.md",
+    "notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Python-Music-Player.md",
+    "notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Version-1.md"
+  ]
+}

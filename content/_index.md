@@ -15,10 +15,6 @@ There are three ways that you can navigate this site:
 - Using the site map on the next page
 - Using the graph found at the bottom of each page
 
-[[Setup/troubleshooting|Troubleshooting]]
-[[Setup/setup|setup]]
-[[Setup/editing|editing]]
-
 ### Click a link below to explore the site
 - [#Project](https://thattakashi.me/tags/Project/)
 - [#Topic](https://thattakashi.me/tags/Topic/)
