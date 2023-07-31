@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "b2ed790b6e357ccf",
+      "parent": 0,
+      "droppable": true,
+      "text": "(*≧ω≦*) Takashi's Digital Garden",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

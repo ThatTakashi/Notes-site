@@ -6,33 +6,40 @@
       {
         "id": "e8d22449d869d933",
         "type": "tabs",
+        "dimension": 58.3941605839416,
         "children": [
           {
-            "id": "ea999b3b80ad9f06",
+            "id": "ed46ab7cb560f07f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/20 - 29 Project Management/Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed89a2d4ea0b8a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b4ad0a59c431ea51",
+        "type": "tabs",
+        "dimension": 41.605839416058394,
+        "children": [
+          {
+            "id": "b2ed790b6e357ccf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://thattakashi.me/"
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +172,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_index.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 439
+    "width": 439,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +192,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed89a2d4ea0b8a97",
+  "active": "b2ed790b6e357ccf",
   "lastOpenFiles": [
-    "_index.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+    "notes/Untitled.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/Visual Design.md",
+    "notes/10 - 19 School/School.md",
     "notes/20 - 29 Project Management/Projects.md",
+    "notes/Images/HTMLwebsite2.png",
+    "notes/Images/HTMLwebsite1.png",
+    "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
+    "_index.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
     "notes/Images/website2.png",
     "notes/Images/website1.png",
@@ -203,7 +215,6 @@
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
     "notes/10 - 19 School/10 13DES/13DES.md",
-    "notes/10 - 19 School/School.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
     "notes/20 - 29 Project Management/20 Current Projects/Untitled.md",
@@ -220,13 +231,8 @@
     "notes/10 - 19 School/10 13DES/10.01 Work",
     "notes/00 - 09 System/00 Index/00.02 Directory.md",
     "notes/00 - 09 System/00 Index/00.01 Home.md",
-    "notes/00 - 09 System/01 Bookmarks/01.01 Articles/Articles.md",
-    "notes/30 - 39 Topics/36 Fiction/36.01 Cyberpunk.md",
     "notes/30 - 39 Topics/36 Fiction",
     "notes/30 - 39 Topics/35 Films and TV",
-    "notes/30 - 39 Topics/34 Random",
-    "notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Pygame-Mixer-Documentation.md",
-    "notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Python-Music-Player.md",
-    "notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Version-1.md"
+    "notes/30 - 39 Topics/34 Random"
   ]
 }

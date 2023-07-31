@@ -12,7 +12,7 @@ tags:
 
 ### Overview of current work
 ```dataview
-TASK FROM "notes/10 - 19 School"
+TASK FROM #School
 WHERE !completed
 GROUP BY file.link
 ```

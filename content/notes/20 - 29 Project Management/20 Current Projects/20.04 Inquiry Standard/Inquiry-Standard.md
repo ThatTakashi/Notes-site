@@ -15,7 +15,7 @@ Design and create a mobile app to help my dad track and organize his bike mechan
 How can I improve the speed at which my dad can work with the use of a digital outcome? What is causing slow downs with my dads work and what could a digital outcome do to help change this?
 
 ## Analysis
-From my research, I can tell that there is quite the variation in the offerings from each different company. Each have their own pros and cons. Here I want to go through and analyze each piece of software and pick out different things that would make my digital outcome better for my stakeholder.
+From my research, I can tell that there is quite the variation in the offerings from each different company. Each have their own pros and cons as well as their own focus in terms of target end users. Here I want to go through and analyze each piece of software and pick out different things that I would use/adapt to make my digital outcome better for my stakeholder.
 
 ### Base Requirements:
 In terms of my digital outcome I have a few base requirements that will need to be met in order for my outcome to be successful. They are:
@@ -34,7 +34,20 @@ These requirements are essential to creating an app that my stakeholder will act
 
 ![[notes/Images/app.png|400]]
 ### What makes a good productivity application?:
-All good productivity tools should allow us to do one thing, manage time. All other things are addons, here is a list of the extras I found that people 
+All good productivity tools should allow us to do one thing, manage time. All other things are addons, here is a list of the extras I found that people expect from a productivity app:
+- Task based tools
+- Calendar functions/integration
+	- Able to integrate with the likes of google calendar
+	- Add, Change and Remove events
+- Integrations with other services such as
+	- Todo apps like Todoist
+	- Note apps like Notion, Obsidian, Etc.
+	- Email clients like Outlook or Gmail
+- Ability to link notes and times/dates to tasks
+- The ability to add collaborators to a workspace
+	- Allow multiple people to access and change the same data
+		- Would be useful in a setting with multiple mechanics needing to access the same job list
+	- Enable different users to have different permissions
 
 ### What I found from my research?:
 Each app that I researched has its own pros and cons as well as a "thing" that it is best at. I conducted this research so that I could find any apps that matched my base requirements as well as I wanted to look for anything that these apps do that I could take inspiration of to improve my own app.
@@ -45,3 +58,4 @@ For each app that I conducted research on, I made an effort to be as nit picky a
 The two apps that I tested in this category are **Monday.com** and **Asana**. Each of these apps have vast feature sets that can cater to many different workflows. This makes each one very easy to use for businesses in many different fields. Despite their large feature set, this can also be their downfall. The large feature set can be overwhelming for new users and navigating through each feature can be painful. Each feature takes time to learn to use and most mechanics are not technically inclined and thus this will be overwhelming for them. Many workers want something that just works out of the box and that requires very little tweaking to work correctly in their workflow.
 
 #### Mechanic Focused apps:
+These apps are tailor made for mechanics and thus include a very focused feature set out of the box. They are designed in such a way that they are as easy to integrate into the workflow of a mechanic as possible. This is achieved through simple interface design and streamlined features. They cut out all of the unnecessary features in an effort to make their software as easy to use as possible. Most mechanics in my experience have only a single computer to work off of so many of the collaboration features are not super useful.
