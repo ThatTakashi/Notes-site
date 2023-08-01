@@ -73,7 +73,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "966938d627735b88",
@@ -131,8 +132,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9dc794ed866e66e",
+  "active": "98de0d7eea86cc47",
   "lastOpenFiles": [
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.06 DVC Exhibition",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
     "screenshot.png",
