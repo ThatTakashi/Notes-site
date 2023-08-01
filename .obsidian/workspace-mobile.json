@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
+            "file": "content/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
+            "file": "content/_index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md"
+            "file": "content/_index.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "a9dc794ed866e66e",
   "lastOpenFiles": [
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
     "screenshot.png",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
@@ -144,7 +145,6 @@
     "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/Visual Design.md",
     "content/notes/20 - 29 Project Management/Projects.md",
     "content/notes/Images/app.png",
-    "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game",
     "content/notes/Images",

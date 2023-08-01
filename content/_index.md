@@ -16,6 +16,9 @@ There are three ways that you can navigate this site:
 - Using the graph found at the bottom of each page
 
 ### Click a link below to explore the site
+- [[notes/10 - 19 School/School|School]]
+- [[notes/20 - 29 Project Management/Projects|Projects]]
+- [[notes/00 - 09 System/01 Bookmarks/01.01 Articles/Articles|Articles]]
 - [#Project](https://thattakashi.me/tags/Project/)
 - [#Topic](https://thattakashi.me/tags/Topic/)
 
