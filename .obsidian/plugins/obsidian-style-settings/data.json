@@ -2,5 +2,7 @@
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-card-shadows": true,
-  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true
 }
