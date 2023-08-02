@@ -6,7 +6,7 @@
       {
         "id": "e8d22449d869d933",
         "type": "tabs",
-        "dimension": 58.394160583941606,
+        "dimension": 62.24619289340102,
         "children": [
           {
             "id": "ed46ab7cb560f07f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "b4ad0a59c431ea51",
         "type": "tabs",
-        "dimension": 41.605839416058394,
+        "dimension": 37.753807106598984,
         "children": [
           {
             "id": "b2ed790b6e357ccf",
@@ -146,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md"
+              }
             }
           }
         ]
@@ -192,8 +196,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2ed790b6e357ccf",
+  "active": "ed46ab7cb560f07f",
   "lastOpenFiles": [
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Design-project.md",
+    "notes/Images/mobilewebsite2.png",
+    "Pasted image 20230802120457.png",
+    "notes/Images/mobilewebsite1.png",
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/Visual Design.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
@@ -211,9 +222,6 @@
     "notes/Images",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards",
-    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Design-project.md",
-    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
-    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
     "notes/10 - 19 School/10 13DES/13DES.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
@@ -230,7 +238,6 @@
     "notes/10 - 19 School/10 13DES/10.02 Assessments",
     "notes/10 - 19 School/10 13DES/10.01 Work",
     "notes/00 - 09 System/00 Index/00.02 Directory.md",
-    "notes/00 - 09 System/00 Index/00.01 Home.md",
     "notes/30 - 39 Topics/36 Fiction",
     "notes/30 - 39 Topics/35 Films and TV",
     "notes/30 - 39 Topics/34 Random"
