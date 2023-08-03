@@ -59,3 +59,6 @@ The two apps that I tested in this category are **Monday.com** and **Asana**. Ea
 
 #### Mechanic Focused apps:
 These apps are tailor made for mechanics and thus include a very focused feature set out of the box. They are designed in such a way that they are as easy to integrate into the workflow of a mechanic as possible. This is achieved through simple interface design and streamlined features. They cut out all of the unnecessary features in an effort to make their software as easy to use as possible. Most mechanics in my experience have only a single computer to work off of so many of the collaboration features are not super useful.
+
+### What this means for my outcome?:
+By researching what apps are already out there as well as what end users that are using those kinds of programs want out of a productivity tool, I have worked out quite a lot about the kinds of design conventions go into a tool like this. People like to have a fair amount of features in an application like this and they want an application like this to be able to connect to other applications in their workflow like a POI (point of sale) system for example. Knowing this will allow me to fully design my digital outcome in such a way that it will meet the end-users expectations.
