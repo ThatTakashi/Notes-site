@@ -9,6 +9,7 @@ tags:
 
 ## Asana:
 
+![[notes/Images/asana.png]]
 ### What is it?:
 Asana is a general purpose project\time management software suite that allows teams to better organize their time.
 
@@ -31,6 +32,7 @@ Asana is a general purpose project\time management software suite that allows te
 
 ## Monday.com:
 
+![[notes/Images/monday.png]]
 ### What is it?:
 Monday.com is a business focused project/team management tool that is perfect for large businesses that want to better manage their time.
 
@@ -56,6 +58,7 @@ Monday.com is a business focused project/team management tool that is perfect fo
 
 ## Mechanicdesk:
 
+![[notes/Images/mechanicdesk.png]]
 ### What is it?:
 Mechanicdesk is a suite of software for mechanics. It has time/task management tools, point of sale tools and booking tools to help mechanics specifically.
 
@@ -69,3 +72,5 @@ Mechanicdesk is a suite of software for mechanics. It has time/task management t
 ---
 
 ## Workshopsoftware:
+
+![[notes/Images/workshopsoftware.png]]

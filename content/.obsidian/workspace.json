@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/30 - 39 Topics/37 Games/37.01 Fire Emblem Engage.md",
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/30 - 39 Topics/37 Games/37.01 Fire Emblem Engage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/30 - 39 Topics/37 Games/37.01 Fire Emblem Engage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/30 - 39 Topics/37 Games/37.01 Fire Emblem Engage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,11 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed46ab7cb560f07f",
+  "active": "b2ed790b6e357ccf",
   "lastOpenFiles": [
-    "notes/30 - 39 Topics/30 World/30.01 Japan.md",
-    "notes/30 - 39 Topics/37 Games/37.01 Fire Emblem Engage.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
+    "notes/Images/workshopsoftware.png",
+    "notes/Images/mechanicdesk.png",
+    "notes/Images/monday.png",
+    "notes/Images/asana.png",
+    "notes/30 - 39 Topics/37 Games/37.01 Fire Emblem Engage.md",
+    "notes/10 - 19 School/School.md",
+    "notes/30 - 39 Topics/30 World/30.01 Japan.md",
     "notes/30 - 39 Topics/37 Games",
     "notes/Images/Screenshot 2023-08-04 122615.png",
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
@@ -214,15 +216,11 @@
     "Pasted image 20230802120457.png",
     "notes/Images/mobilewebsite1.png",
     "notes/Untitled.md",
-    "notes/10 - 19 School/School.md",
     "notes/20 - 29 Project Management/Projects.md",
     "notes/Images/HTMLwebsite2.png",
     "notes/Images/HTMLwebsite1.png",
-    "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
     "_index.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
-    "notes/Images/website2.png",
-    "notes/Images/website1.png",
     "notes/Images",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards",
@@ -235,7 +233,6 @@
     "notes/10 - 19 School/12 13DVC/13DVC.md",
     "notes/10 - 19 School/14 13PRG/13PRG.md",
     "notes/10 - 19 School/13 13PAI/13PAI.md",
-    "notes/30 - 39 Topics/30 World/30.02 East Asia.md",
     "notes/10 - 19 School/10 13DES/10.04 Misc",
     "notes/10 - 19 School/10 13DES/10.03 Class Notes",
     "notes/10 - 19 School/10 13DES/10.02 Assessments",

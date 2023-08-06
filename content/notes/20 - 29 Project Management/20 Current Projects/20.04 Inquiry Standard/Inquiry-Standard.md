@@ -6,15 +6,15 @@ tags:
 - DGT
 ---
 
-[[notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research|Inquiry-Standard-Research]]
+Research for this standard: [[notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research|Inquiry-Standard-Research]]
 
 ## Inquiry Focus
 Design and create a mobile app to help my dad track and organize his bike mechanic repair jobs.
 
 ## Inquiry Question
-How can I improve the speed at which my dad can work with the use of a digital outcome? 
-What is causing slow downs with my dads work and what could a digital outcome do to help change this?
-What do existing digital outcomes that already exist do that could improve the quality of my outcome?
+- How can I improve the speed at which my dad can work with the use of a digital outcome? 
+- What is causing slow downs with my dads work and what could a digital outcome do to help change this?
+- What do existing digital outcomes that already exist do that could improve the quality of my outcome?
 
 ## Analysis
 From my research, I can tell that there is quite the variation in the offerings from each different company. Each have their own pros and cons as well as their own focus in terms of target end users. Here I want to go through and analyze each piece of software and pick out different things that I would use/adapt to make my digital outcome better for my stakeholder.
