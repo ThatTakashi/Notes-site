@@ -6,7 +6,6 @@
       {
         "id": "e8d22449d869d933",
         "type": "tabs",
-        "dimension": 62.24619289340102,
         "children": [
           {
             "id": "ed46ab7cb560f07f",
@@ -18,25 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b4ad0a59c431ea51",
-        "type": "tabs",
-        "dimension": 37.753807106598984,
-        "children": [
-          {
-            "id": "b2ed790b6e357ccf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://thattakashi.me/notes/20-29-Project-Management/20-Current-Projects/20.02-Design-Project/Website/"
-              },
-              "pinned": true
             }
           }
         ]
@@ -146,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,15 +154,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 439,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2ed790b6e357ccf",
+  "active": "ed46ab7cb560f07f",
   "lastOpenFiles": [
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",

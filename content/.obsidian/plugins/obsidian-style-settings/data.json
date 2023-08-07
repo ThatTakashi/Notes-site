@@ -23,5 +23,13 @@
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
-  "anuppuccin-theme-settings@@anp-tooltip-toggle": false
+  "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
+  "Appearance-light@@accent-light": "#D7827E",
+  "Appearance-light@@accent-color-override-light": true,
+  "Appearance-light@@background-tertiary@@light": "#F2E9E1",
+  "Appearance-light@@background-primary@@light": "#FFFAF3",
+  "Appearance-light@@background-secondary@@light": "#FAF4ED",
+  "Appearance-light@@text-normal@@light": "#575279",
+  "Appearance-light@@text-muted@@light": "#797593",
+  "Appearance-light@@text-faint@@light": "#9893A5"
 }
