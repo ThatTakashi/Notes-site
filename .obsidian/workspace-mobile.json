@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9dc794ed866e66e",
+            "id": "219eca21ff673ed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Design",
+            "query": "tag:#Project",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/_index.md"
+            "file": "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md"
           }
         }
       }
@@ -132,8 +132,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98de0d7eea86cc47",
+  "active": "edf20f3e3a9062fc",
   "lastOpenFiles": [
+    "content/notes/Images/workshopsoftware.png",
+    "content/notes/Images/monday.png",
+    "content/notes/Images/mobilewebsite2.png",
+    "content/notes/Images/mobilewebsite1.png",
+    "content/notes/Images/mechanicdesk.png",
+    "content/notes/30 - 39 Topics/37 Games/37.01 Fire Emblem Engage.md",
+    "content/notes/30 - 39 Topics/37 Games",
+    "content/notes/Images/Screenshot 2023-08-04 122615.png",
+    "content/notes/Images/asana.png",
+    "content/notes/20 - 29 Project Management/Projects.md",
+    "content/notes/00 - 09 System/00 Index/00.02 Directory.md",
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
+    "CODE_OF_CONDUCT.md",
+    "content/_index.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.06 DVC Exhibition",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
@@ -143,16 +157,12 @@
     "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
     "content/notes/Images/HTMLwebsite2.png",
     "content/notes/Images/HTMLwebsite1.png",
-    "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/Visual Design.md",
-    "content/notes/20 - 29 Project Management/Projects.md",
     "content/notes/Images/app.png",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game",
     "content/notes/Images",
-    "content/notes/Images/website2.png",
     "CNAME",
-    "content/notes/Images/website1.png",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards",
     "content/notes/Japanese.md",
@@ -160,9 +170,7 @@
     "content/notes/00 - 09 System",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard",
-    "content/notes/20 - 29 Project Management/20 Current Projects",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Graphics-and-Assets.md",
-    "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights",
     "content/notes/00 - 09 System/00 Index/00.01 Home.md",
     "content/notes/30 - 39 Topics/30 World/30.02 East Asia.md",
     "content/notes/30 - 39 Topics/30 World/30.01 Japan.md",
@@ -171,14 +179,6 @@
     "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Blinding-nights.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Story.md",
-    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Version-1.md",
-    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Python-Music-Player.md",
-    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Version-2.md",
-    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Pygame-Mixer-Documentation.md",
-    "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos.md",
-    "content/Setup/images/fork.png",
-    "content/Setup/images/github-actions.png",
-    "content/Setup/images/github-pages.png",
-    "content/Setup/images/google-domains.png"
+    "content/notes/20 - 29 Project Management/21 Past Projects/21.01 Python-Music-Player/Version-1.md"
   ]
 }
