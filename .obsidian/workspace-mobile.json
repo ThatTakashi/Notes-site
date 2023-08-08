@@ -11,10 +11,8 @@
             "id": "219eca21ff673ed7",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "content/notes/Images/app.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/notes/Images/app.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/notes/Images/app.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,9 +108,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "content/notes/Images/app.png"
-          }
+          "state": {}
         }
       }
     ],
@@ -130,8 +124,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98de0d7eea86cc47",
+  "active": "219eca21ff673ed7",
   "lastOpenFiles": [
+    "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Characters.md",
+    "content/notes/Images/app.png",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Blinding-nights.md",
     "content/_index.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
@@ -156,7 +152,6 @@
     "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
     "content/notes/Images/HTMLwebsite2.png",
-    "content/notes/Images/HTMLwebsite1.png",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/Visual Design.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
     "content/notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game",
