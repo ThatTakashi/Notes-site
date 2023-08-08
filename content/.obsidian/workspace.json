@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d22449d869d933",
+        "id": "061277bea344a36c",
         "type": "tabs",
         "children": [
           {
-            "id": "ed46ab7cb560f07f",
+            "id": "8558a4ada6c01f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,11 +103,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51ff0a0876bbaac5",
+        "id": "dc4fb91d5651d0d9",
         "type": "tabs",
         "children": [
           {
-            "id": "70f38dffd562e509",
+            "id": "ed46ab7cb560f07f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -167,18 +167,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed46ab7cb560f07f",
+  "active": "8558a4ada6c01f0e",
   "lastOpenFiles": [
-    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
+    "notes/20 - 29 Project Management/Projects.md",
+    "templates/post.md",
+    "private/private-note.md",
+    "notes/00 - 09 System/00 Index/00.02 Directory.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Design-project.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
     "notes/Images/workshopsoftware.png",
     "notes/Images/mechanicdesk.png",
@@ -194,12 +199,10 @@
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos.md",
-    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Design-project.md",
     "notes/Images/mobilewebsite2.png",
     "Pasted image 20230802120457.png",
     "notes/Images/mobilewebsite1.png",
     "notes/Untitled.md",
-    "notes/20 - 29 Project Management/Projects.md",
     "notes/Images/HTMLwebsite2.png",
     "notes/Images/HTMLwebsite1.png",
     "_index.md",
@@ -214,8 +217,6 @@
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game",
     "notes/10 - 19 School/11 13DGT/13DGT.md",
     "notes/10 - 19 School/12 13DVC/13DVC.md",
-    "notes/10 - 19 School/14 13PRG/13PRG.md",
-    "notes/10 - 19 School/13 13PAI/13PAI.md",
     "notes/10 - 19 School/10 13DES/10.04 Misc",
     "notes/10 - 19 School/10 13DES/10.03 Class Notes",
     "notes/10 - 19 School/10 13DES/10.02 Assessments",
