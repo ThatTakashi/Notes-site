@@ -12,7 +12,7 @@ Research for this standard: [[notes/20 - 29 Project Management/20 Current Projec
 Design and create a mobile app to help my dad track and organize his bike mechanic repair jobs.
 
 ## Inquiry Question
-- How can I improve the speed at which my dad can work with the use of a digital outcome? 
+- How can I improve the speed at which my dad can work with the use of a digital outcome?
 - What is causing slow downs with my dads work and what could a digital outcome do to help change this?
 - What do existing digital outcomes that already exist do that could improve the quality of my outcome?
 
@@ -67,4 +67,4 @@ These apps are tailor made for mechanics and thus include a very focused feature
 By researching what apps are already out there as well as what end users that are using those kinds of programs want out of a productivity tool, I have worked out quite a lot about the kinds of design conventions go into a tool like this. People like to have a fair amount of features in an application like this and they want an application like this to be able to connect to other applications in their workflow like a POI (point of sale) system for example. Knowing this will allow me to fully design my digital outcome in such a way that it will meet the end-users expectations. 
 
 ### But how does this help my dad at work?:
-My dad is a very visual person and likes to get things done in a quick manner. My digital outcome will provide a fast and easy way to both list and complete tasks. I would also like to connect my app to the shops point of sale system. This would elevate yet another point of friction when integrating the app into the dads workflow as it would allow jobs to be added to the app automatically. The shop also has a system that sends the customer a text message when their bike has been repaired, I feel that this could be something that could be integrated into the feature set of my app. It would send a text to the customer when my dad checks the job off as done.
+My dad is a very visual person and is pleased when he can get things done in a quick manner. My digital outcome will provide a fast and easy way to both list and complete tasks. I would also like to connect my app to the shops point of sale system. This would elevate yet another point of friction when integrating the app into the dads workflow as it would allow jobs to be added to the app automatically. The shop also has a system that sends the customer a text message when their bike has been repaired, I feel that this could be something that could be integrated into the feature set of my app. It would send a text to the customer when my dad checks the job off as done.

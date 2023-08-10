@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "4fbfe0a41cb6031c",
@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,16 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf240447f43bfa27",
+  "active": "ed46ab7cb560f07f",
   "lastOpenFiles": [
+    "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
     "notes/Images/website1Works.png",
     "notes/20 - 29 Project Management/Projects.md",
     "templates/post.md",
     "private/private-note.md",
     "notes/00 - 09 System/00 Index/00.02 Directory.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Design-project.md",
-    "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
-    "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
     "notes/Images/workshopsoftware.png",
     "notes/Images/mechanicdesk.png",
@@ -205,7 +201,6 @@
     "notes/Images/mobilewebsite1.png",
     "notes/Untitled.md",
     "notes/Images/HTMLwebsite2.png",
-    "notes/Images/HTMLwebsite1.png",
     "_index.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
     "notes/Images",
