@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "061277bea344a36c",
+        "id": "745be33d7c7533e5",
         "type": "tabs",
         "children": [
           {
-            "id": "8558a4ada6c01f0e",
+            "id": "13c39ad317d85384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,11 +103,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc4fb91d5651d0d9",
+        "id": "ea7f385b33956097",
         "type": "tabs",
         "children": [
           {
-            "id": "ed46ab7cb560f07f",
+            "id": "8558a4ada6c01f0e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md"
+              }
             }
           }
         ]
@@ -171,15 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed46ab7cb560f07f",
+  "active": "13c39ad317d85384",
   "lastOpenFiles": [
+    "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Blinding-nights.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Characters.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
+    "notes/00 - 09 System/00 Index/00.02 Directory.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website.md",
     "notes/Images/website1Works.png",
     "notes/20 - 29 Project Management/Projects.md",
     "templates/post.md",
     "private/private-note.md",
-    "notes/00 - 09 System/00 Index/00.02 Directory.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Design-project.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard-Research.md",
     "notes/Images/workshopsoftware.png",
@@ -193,7 +200,6 @@
     "notes/Images/Screenshot 2023-08-04 122615.png",
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/Visual Design.md",
-    "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos.md",
     "notes/Images/mobilewebsite2.png",
@@ -211,7 +217,6 @@
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
     "notes/20 - 29 Project Management/20 Current Projects/Untitled.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game",
-    "notes/10 - 19 School/11 13DGT/13DGT.md",
     "notes/10 - 19 School/10 13DES/10.04 Misc",
     "notes/10 - 19 School/10 13DES/10.03 Class Notes",
     "notes/10 - 19 School/10 13DES/10.02 Assessments",
