@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.06 Exhibition/Exhibition Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.06 Exhibition/Exhibition Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.06 Exhibition/Exhibition Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md"
+                "file": "notes/20 - 29 Project Management/20 Current Projects/20.06 Exhibition/Exhibition Research.md"
               }
             }
           }
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13c39ad317d85384",
+  "active": "cf240447f43bfa27",
   "lastOpenFiles": [
+    "notes/Images/Pasted image 20230814132147.png",
+    "notes/20 - 29 Project Management/20 Current Projects/20.06 Exhibition/Exhibition Research.md",
+    "notes/Images/Pasted image 20230814130755.png",
+    "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML-Standard.md",
+    "notes/20 - 29 Project Management/20 Current Projects/20.06 Exhibition",
+    "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
+    "notes/Images/Screenshot 2023-08-13 at 9.49.07 PM.png",
+    "notes/Images/Screenshot 2023-08-13 at 9.48.01 PM.png",
     "notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Blinding-nights.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.01 Blinding-Nights/Characters.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.04 Inquiry Standard/Inquiry-Standard.md",
@@ -198,30 +207,22 @@
     "notes/30 - 39 Topics/30 World/30.01 Japan.md",
     "notes/30 - 39 Topics/37 Games",
     "notes/Images/Screenshot 2023-08-04 122615.png",
-    "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/HTML Research.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.03 HTML Standard/Visual Design.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos.md",
     "notes/Images/mobilewebsite2.png",
-    "Pasted image 20230802120457.png",
-    "notes/Images/mobilewebsite1.png",
     "notes/Untitled.md",
-    "notes/Images/HTMLwebsite2.png",
     "_index.md",
-    "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game.md",
     "notes/Images",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards/Theme Variation Ideas.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Art Boards",
     "notes/10 - 19 School/10 13DES/13DES.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.02 Gameplay.md",
-    "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.03 Story.md",
-    "notes/20 - 29 Project Management/20 Current Projects/Untitled.md",
     "notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game",
     "notes/10 - 19 School/10 13DES/10.04 Misc",
     "notes/10 - 19 School/10 13DES/10.03 Class Notes",
     "notes/10 - 19 School/10 13DES/10.02 Assessments",
     "notes/10 - 19 School/10 13DES/10.01 Work",
-    "notes/30 - 39 Topics/36 Fiction",
-    "notes/30 - 39 Topics/35 Films and TV"
+    "notes/30 - 39 Topics/36 Fiction"
   ]
 }
